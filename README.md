@@ -18,7 +18,7 @@ So everything is a plugin and the code reusability is achieved because the comma
 is still using the domain methods! 
 
 ## CommandHandler for CQRS
-![](cqsr_pattern.png)
+![](src/cqsr_pattern.png)
 
 ## What should the protocol buffer message contain?
 It is compulsory to have:
